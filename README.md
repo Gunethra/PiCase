@@ -1,5 +1,7 @@
 # PiCase
-Assembly files for Raspberry Pi 3D Printed Case
+Assembly files for Raspberry Pi 3D Printed Case.
+This has a housing for a 40mm fan.
+
 The Top and Bottom stl files were assembled to print in [`Assembly.stl`](https://github.com/Gunethra/PiCase/blob/main/Assembly.stl)
 
 The final print looks like this:
